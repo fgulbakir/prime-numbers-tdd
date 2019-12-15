@@ -1,0 +1,7 @@
+C:\Users\Dell\Tdds\PrimeNumbers\PrimeNumbers.Core\bin\Debug\netcoreapp3.1\PrimeNumbers.Core.deps.json
+C:\Users\Dell\Tdds\PrimeNumbers\PrimeNumbers.Core\bin\Debug\netcoreapp3.1\PrimeNumbers.Core.dll
+C:\Users\Dell\Tdds\PrimeNumbers\PrimeNumbers.Core\bin\Debug\netcoreapp3.1\PrimeNumbers.Core.pdb
+C:\Users\Dell\Tdds\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netcoreapp3.1\PrimeNumbers.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\Tdds\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netcoreapp3.1\PrimeNumbers.Core.AssemblyInfo.cs
+C:\Users\Dell\Tdds\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netcoreapp3.1\PrimeNumbers.Core.dll
+C:\Users\Dell\Tdds\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netcoreapp3.1\PrimeNumbers.Core.pdb
